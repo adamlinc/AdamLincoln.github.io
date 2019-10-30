@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Adam Lincoln.", "Analista Power BI.", "Analista de Dados.", "Early Adopter."],
+      strings: ["o Adam.", "Analista Power BI.", "Analista de Dados.", "Early Adopter."],
       typeSpeed: 100,
       loop: true,
     });
